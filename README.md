@@ -3,7 +3,7 @@ Olá, meu nome é Rafael e estou no 1° semestre do curso Ciência da Computaç�
 ```C++
 #include <UFG>
 #include <stdio.h>
-#define name Raff77
+#define name Rafftt
 
 int main() {
 
