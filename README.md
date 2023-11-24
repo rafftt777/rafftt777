@@ -22,3 +22,5 @@ int main() {
 # Tecnologias
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/++-%2300600C.svg?style=for-the-badge&logo=c&logoColor=white)
+
