@@ -16,14 +16,13 @@ int main() {
     return 0;
 
 }
-```
-
 Languages:
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
 
-Tec:
-
+Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react)](https://skillicons.dev)
+```
+
 
