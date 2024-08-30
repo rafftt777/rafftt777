@@ -19,8 +19,11 @@ int main() {
 ```
 
 Languages:
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,java)](https://skillicons.dev)
 
 Tec:
+
+
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react)](https://skillicons.dev)
 
