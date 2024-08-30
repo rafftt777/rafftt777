@@ -23,6 +23,6 @@ Languages:
 
 Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react)](https://skillicons.dev)
 
 
