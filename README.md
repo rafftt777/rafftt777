@@ -1,4 +1,4 @@
-Olá, meu nome é Rafael e estou no 1° semestre do curso Ciência da Computação na UFG.
+Olá, meu nome é Rafael e estou no 4° semestre do curso Ciência da Computação na UFG.
 
 ```C++
 #include <UFG>
