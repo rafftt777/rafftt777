@@ -8,7 +8,7 @@
 int main() {
 
     char info[16] = "Computer Science";
-    char *langs[3] = {"C", "C++", "Java"};
+    char *langs[3] = {"C", "C++", "Java", "Python"};
     char *tec[2] = {"node", "react"};
     char areas[2] = {"Theorical Computer Science", "Software Engineer"};
 
